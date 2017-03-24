@@ -93,10 +93,13 @@ canvas{
   background-repeat: no-repeat;
 }
 
-#my_logo{
-    background: url"https://pmcdeadline2.files.wordpress.com/2016/07/logo-tv-logo.png");
-    width : 1000px;
-    height : 1000px;
+.imageWrapper {
+  position: relative;
+}
+.overlayImage {
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 
