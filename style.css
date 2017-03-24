@@ -98,9 +98,7 @@ canvas{
 }
 .overlayImage {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  text-align: center;
+  background-position: 50% 50%;
 }
 
 
