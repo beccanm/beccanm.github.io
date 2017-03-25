@@ -69,6 +69,10 @@ canvas{
 position: fixed;
     height: 100%;
     width: 100%;
+	background-color: #b61924;
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
 }
 
 #wrapper {
