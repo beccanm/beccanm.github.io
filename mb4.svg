@@ -1,19 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Marco Beccani</title>
-  <meta name="description" content="particles.js is a lightweight JavaScript library for creating particles.">
-  <meta name="author" content="Vincent Garreau" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <link rel="stylesheet" media="screen" href="style.css">
-</head>
-
-
-<body>
-
-<div class="imageWrapper">
-  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
@@ -59,18 +46,3 @@
 <path id="XMLID_44_" class="st0" d="M364.1,655.5c20.9,0,37.9,19.3,37.9,43s-17,43-37.9,43"/>
 <line id="XMLID_18_" class="st0" x1="284" y1="582.5" x2="302" y2="582.5"/>
 </svg>
-</div>
-
-<!-- particles.js container -->
- <div id="particles-js">  </div>
- 
- 
-<!-- scripts -->
-<script src="../particles.js"></script>
-<script src="js/app.js"></script>
-
-
-
-
-</body>
-</html>
