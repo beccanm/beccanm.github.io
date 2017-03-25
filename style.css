@@ -89,10 +89,10 @@ position: fixed;
 
 .logo-inner {
 position: relative;
-     margin-top: 200px;
-     margin-right: 100px;
+     margin-top: 250px;
+     margin-right: 0px;
     margin-bottom: 200px;
-    margin-left: 100px;
+    margin-left: 350px;
     height: 100%;
 }
 
