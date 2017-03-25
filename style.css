@@ -91,11 +91,11 @@ canvas{
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
+  z-index: -999;
 }
 
 .imageWrapper {
   width: 400px;
-  margin: 200px auto;
 }
 .overlayImage {
   position: absolute;
