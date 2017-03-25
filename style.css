@@ -94,7 +94,6 @@ canvas{
 }
 
 .imageWrapper {
-  position: relative;
   width: 400px;
   margin: 150px auto;
 }
