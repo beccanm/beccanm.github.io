@@ -94,8 +94,8 @@ canvas{
 }
 
 .imageWrapper {
-  width: 100px;
-  margin: 150px auto;
+  width: 400px;
+  margin: 200px auto;
 }
 .overlayImage {
   position: absolute;
