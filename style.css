@@ -99,8 +99,8 @@ canvas{
 .overlayImage {
   position: absolute;
   background-position: 50% 50%;
-  width: 30%;
-  height: 30%;
+  width: 100%;
+  height: 100%;
 }
 
 
