@@ -95,6 +95,8 @@ canvas{
 
 .imageWrapper {
   position: relative;
+  width: 30%;
+  height: 30%;
 }
 .overlayImage {
   position: absolute;
