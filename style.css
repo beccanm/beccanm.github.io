@@ -71,11 +71,22 @@ position: fixed;
     width: 100%;
 }
 
-.wrapper {
+#wrapper {
 position: fixed;
     height: 100%;
     width: 100%;
 }
 
+.logo-outer {
+position: fixed;
+    height: 100%;
+    width: 100%;
+}
+
+.logo-inner {
+position: relative;
+    height: 100%;
+    width: 100%;
+}
 
 
