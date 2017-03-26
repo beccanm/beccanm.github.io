@@ -81,21 +81,22 @@ position: fixed;
     width: 100%;
 }
 
+
 .logo-outer {
 position: fixed;
-    margin-top: 22%;
-	margin-left:  50%;
+    margin-top: 12%;
+	margin-left:  40%;
 	margin-right: 0%;
 	margin-bottom: 0%;
 }
 
 .logo-inner {
 position: relative;
-margin-top: 30%;
+margin-top: 65%;
 margin-left:  0%;
 margin-right: 0%;
 margin-bottom: 0%;
-
 }
+
 
 
