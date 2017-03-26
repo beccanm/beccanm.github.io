@@ -91,7 +91,9 @@ position: fixed;
 .logo-inner {
 position: relative;
 margin-top: 39%;
-stroke-width: 15%;
+stroke-width: 1.75%;
+stroke: #6CCFF6;
+
 }
 
 
