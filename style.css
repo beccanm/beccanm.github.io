@@ -72,7 +72,7 @@ position: fixed;
 	background-color: #b61924;
   background-image: url('');
   background-size: cover;
-  background-position: 80% 80%;
+  background-position: 1000% 100%;
 }
 
 #wrapper {
@@ -83,8 +83,8 @@ position: fixed;
 
 .logo-outer {
 position: fixed;
-    height: 100%;
-    width: 100%;
+    height: 50%;
+    width: 50%;
 }
 
 .logo-inner {
