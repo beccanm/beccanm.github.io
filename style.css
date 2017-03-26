@@ -47,23 +47,6 @@ canvas{
 /* ---- stats.js ---- */
 
 
-
-#stats,
-.count-particles{
-  -webkit-user-select: none;
-  margin-top: 5px;
-  margin-left: 5px;
-}
-
-#stats{
-  border-radius: 3px 3px 0 0;
-  overflow: hidden;
-}
-
-.count-particles{
-  border-radius: 0 0 3px 3px;
-}
-
 /* ---- particles.js container ---- */
 #particles-js{
 position: fixed;
@@ -72,7 +55,7 @@ position: fixed;
 	background-color: #2D3A3A;
   background-image: url('');
   background-size: cover;
-  background-position: 1000% 100%;
+  background-position: 100% 100%;
 }
 
 #wrapper {
