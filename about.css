@@ -56,6 +56,12 @@ body {
 /* Padding for spacing */
 .inner {
   padding: 30px;
+  margin: 0;
+font-size: 0;
+max-width: 100%;
+position: fixed;
+	margin-left:  0%;
+	margin-bottom: 0%;
 }
 
 
@@ -161,14 +167,13 @@ body {
     width: 700px;
   }
 }
-
-.logo-image {
-margin: 0;
+#logo-image{
 font-size: 0;
 max-width: 100%;
-position: fixed;
-    margin-top: 12%;
-	margin-left:  39%;
-	margin-bottom: 0%;
+position: relative;
+margin-right:  0%;
+margin-top: 0%;
+margin-bottom: 00%;
 }
+
 
