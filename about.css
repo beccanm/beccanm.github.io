@@ -169,9 +169,8 @@ position: fixed;
 }
 
 .navbar-embedlogo .navbar-brand {
-  height: 120px;
+  height: 200px;
 }
-
 
 .navbar-embedlogo .nav >li >a {
   padding-top: 30px;
