@@ -161,10 +161,14 @@ body {
     width: 700px;
   }
 }
-  
+
 .logo-image {
 margin: 0;
 font-size: 0;
 max-width: 100%;
+position: fixed;
+    margin-top: 12%;
+	margin-left:  39%;
+	margin-bottom: 0%;
 }
 
