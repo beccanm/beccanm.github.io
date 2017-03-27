@@ -167,15 +167,18 @@ position: fixed;
     width: 700px;
   }
 }
-#logo-image{
- height: auto; 
-    width: auto; 
-    max-width: 100px; 
-    max-height: 100px;
-position: relative;
-margin-right:  0%;
-margin-top: 0%;
-margin-bottom: 0%;
+
+.navbar-embedlogo .navbar-brand {
+  height: 120px;
 }
 
+
+.navbar-embedlogo .nav >li >a {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.navbar-embedlogo .navbar-toggle {
+  padding: 10px;
+  margin: 25px 15px 25px 0;
+}
 
