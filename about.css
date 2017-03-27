@@ -160,4 +160,10 @@ body {
   .cover-container {
     width: 700px;
   }
+  
+.logo-image {
+margin: 0;
+font-size: 0;
+max-width: 100%;
+}
 }
