@@ -30,7 +30,7 @@ body {
   background-color: #333;
 }
 body {
-  color: #EEF0F2;
+  color: #2D3A3A;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
@@ -78,7 +78,7 @@ body {
   padding-left: 0;
   font-size: 20px;
   font-weight: bold;
-  color: #EEF0F2; /* IE8 proofing */
+  color: #2D3A3A; /* IE8 proofing */
   color: rgba(255,255,255,.75);
   border-bottom: 2px solid transparent;
 }
