@@ -98,6 +98,7 @@ body {
 @media (min-width: 768px) {
   .masthead-brand {
     float: left;
+	color: #EEF0F2;
 	
   }
   .masthead-nav {
