@@ -56,12 +56,6 @@ body {
 /* Padding for spacing */
 .inner {
   padding: 30px;
-  margin: 0;
-font-size: 0;
-max-width: 100%;
-position: fixed;
-	margin-left:  0%;
-	margin-bottom: 0%;
 }
 
 
