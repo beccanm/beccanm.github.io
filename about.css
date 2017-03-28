@@ -56,8 +56,8 @@ body {
 /* Padding for spacing */
 .inner {
   padding: 30px;
+  background: #2D3A3A;
 }
-
 
 /*
  * Header
