@@ -47,7 +47,6 @@ body {
 .site-wrapper-inner {
   display: table-cell;
   vertical-align: top;
-  `padding-top: 12%;`
 }
 .cover-container {
   margin-right: auto;
@@ -145,6 +144,9 @@ body {
     bottom: 0;
   }
   /* Start the vertical centering */
+    .site-wrapper-inner {
+    `padding-top: 12%;`
+  }
   
   /* Handle the widths */
   .masthead,
