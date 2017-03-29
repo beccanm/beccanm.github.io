@@ -47,6 +47,7 @@ body {
 .site-wrapper-inner {
   display: table-cell;
   vertical-align: top;
+  background: #2D3A3A;
 }
 .cover-container {
   margin-right: auto;
